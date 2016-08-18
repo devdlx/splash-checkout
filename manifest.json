@@ -1,0 +1,6 @@
+{
+  "name": "splash-checkout",
+  "short_name": "splash-checkout",
+  "start_url": "/",
+  "display": "standalone"
+}
